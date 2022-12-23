@@ -2,3 +2,10 @@ This is my second page of my book practice
 
 did you all say Happy Bday to my sister yet???
 
+Oh and yes this is my second practice on our first gitHub class
+
+So what is Git:
+
+Git is a version Control system. It is a software installed on your computer to keep track of changes
+in files and folders.
+
